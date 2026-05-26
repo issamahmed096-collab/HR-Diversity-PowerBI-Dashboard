@@ -1,2 +1,1 @@
-# HR-Diversity-PowerBI-Dashboard
-HR-Diversity-PowerBI-Dashboard
+# Human-Resources-Dataset-Analysis
